@@ -7,3 +7,6 @@ This is a list of the concepts I learned while doing the problems. I basically w
 2. Reverse Integer
     - calling methods from other methods in the class
     - string reversing algorithm using a pivot point
+
+3. Palindrome Number
+    - using PDB (to compile with pdb go into the folder and type python-m pdb solution\_1.py. The commands from there are similar to gbd)
